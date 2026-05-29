@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Playlist Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📺 IPTV Playlist Manager</h1>
+            <p class="subtitle">Manage World Cup & News Channels Globally</p>
+        </header>
+
+        <nav class="navbar">
+            <button class="nav-btn active" data-filter="all">All Channels</button>
+            <button class="nav-btn" data-filter="news">📰 News</button>
+            <button class="nav-btn" data-filter="sports">⚽ Sports</button>
+            <button class="nav-btn" data-filter="worldcup">🏆 World Cup</button>
+        </nav>
+
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search channels by name...">
+            <button id="searchBtn">🔍 Search</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <span class="stat-number" id="totalChannels">0</span>
+                <span class="stat-label">Total Channels</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number" id="newsCount">0</span>
+                <span class="stat-label">News Channels</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number" id="sportsCount">0</span>
+                <span class="stat-label">Sports Channels</span>
+            </div>
+            <div class="stat-box">
+                <span class="stat-number" id="countriesCount">0</span>
+                <span class="stat-label">Countries</span>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="filter-options">
+                <label>
+                    <input type="checkbox" id="filterQuality" value="HD">
+                    HD Quality Only
+                </label>
+            </div>
+
+            <div id="channelsList" class="channels-grid">
+                <!-- Channels will be loaded here -->
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 IPTV Playlist Manager. Built for global streaming.</p>
+            <p><small>⚠️ Disclaimer: Use only for legally authorized streaming content</small></p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

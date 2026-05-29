@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,BBC News
+http://stream.bbc.co.uk/news
+#EXTINF:-1,BBC News HD
+http://stream.bbc.co.uk/news-hd
+#EXTINF:-1,CNN International
+http://stream.cnn.com/international
+#EXTINF:-1,CNN HD
+http://stream.cnn.com/international-hd
+#EXTINF:-1,France 24 English
+http://stream.france24.com/en
+#EXTINF:-1,DW English
+http://stream.dw.com/en
+#EXTINF:-1,Al Jazeera English
+http://stream.aljazeera.com/en
+#EXTINF:-1,NDTV India
+http://stream.ndtv.com
+#EXTINF:-1,Euronews
+http://stream.euronews.com
+#EXTINF:-1,RT International
+http://stream.rt.com
+#EXTINF:-1,ABS-CBN News
+http://stream.abscbn.com/news
+#EXTINF:-1,CCTV News China
+http://stream.cctv.com/news
+#EXTINF:-1,NHK World Japan
+http://stream.nhkworld.com
+#EXTINF:-1,Sky News UK
+http://stream.skynews.com
+#EXTINF:-1,NBC News USA
+http://stream.nbcnews.com

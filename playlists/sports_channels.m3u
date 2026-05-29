@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,ESPN Sports
+http://stream.espn.com/main
+#EXTINF:-1,Sky Sports UK
+http://stream.skysports.com
+#EXTINF:-1,Eurosport
+http://stream.eurosport.com
+#EXTINF:-1,Sports18 India
+http://stream.sports18.com
+#EXTINF:-1,Fox Sports USA
+http://stream.foxsports.com
+#EXTINF:-1,BBC Sport
+http://stream.bbc.com/sport
+#EXTINF:-1,BeIN Sports
+http://stream.beinsports.com
+#EXTINF:-1,DAZN
+http://stream.dazn.com
+#EXTINF:-1,World Cup 2026
+http://stream.fifa.com/worldcup
+#EXTINF:-1,Premier League
+http://stream.premierleague.com
+#EXTINF:-1,La Liga Spain
+http://stream.laliga.es
+#EXTINF:-1,Serie A Italy
+http://stream.seriea.it
+#EXTINF:-1,Bundesliga Germany
+http://stream.bundesliga.de
+#EXTINF:-1,Ligue 1 France
+http://stream.ligue1.com
+#EXTINF:-1,Champions League
+http://stream.uefa.com/champions-league

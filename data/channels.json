@@ -1,0 +1,104 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "BBC News",
+      "url": "http://stream.bbc.co.uk/news",
+      "category": "news",
+      "country": "UK",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/BBC_News_2019.svg",
+      "quality": "HD"
+    },
+    {
+      "id": 2,
+      "name": "CNN International",
+      "url": "http://stream.cnn.com/international",
+      "category": "news",
+      "country": "USA",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CNN_logo.svg/1200px-CNN_logo.svg.png",
+      "quality": "HD"
+    },
+    {
+      "id": 3,
+      "name": "France 24 English",
+      "url": "http://stream.france24.com/en",
+      "category": "news",
+      "country": "France",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/France24_logo.svg",
+      "quality": "HD"
+    },
+    {
+      "id": 4,
+      "name": "DW English",
+      "url": "http://stream.dw.com/en",
+      "category": "news",
+      "country": "Germany",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DW-logo.svg/1200px-DW-logo.svg.png",
+      "quality": "HD"
+    },
+    {
+      "id": 5,
+      "name": "Al Jazeera English",
+      "url": "http://stream.aljazeera.com/en",
+      "category": "news",
+      "country": "Qatar",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/Al_Jazeera_English_2016.svg",
+      "quality": "HD"
+    },
+    {
+      "id": 6,
+      "name": "NDTV India",
+      "url": "http://stream.ndtv.com",
+      "category": "news",
+      "country": "India",
+      "language": "Hindi/English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/NDTV_logo.svg",
+      "quality": "HD"
+    },
+    {
+      "id": 7,
+      "name": "ESPN Sports",
+      "url": "http://stream.espn.com/main",
+      "category": "sports",
+      "country": "USA",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/ESPN_logo.svg",
+      "quality": "HD"
+    },
+    {
+      "id": 8,
+      "name": "Sky Sports UK",
+      "url": "http://stream.skysports.com",
+      "category": "sports",
+      "country": "UK",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/3d/Sky_Sports_logo.svg",
+      "quality": "4K"
+    },
+    {
+      "id": 9,
+      "name": "World Cup 2026",
+      "url": "http://stream.fifa.com/worldcup",
+      "category": "sports",
+      "country": "International",
+      "language": "Multiple",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/66/2026_FIFA_World_Cup_logo.svg",
+      "quality": "4K"
+    },
+    {
+      "id": 10,
+      "name": "Premier League",
+      "url": "http://stream.premierleague.com",
+      "category": "sports",
+      "country": "UK",
+      "language": "English",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Premier_League_Logo.svg",
+      "quality": "4K"
+    }
+  ]
+}
